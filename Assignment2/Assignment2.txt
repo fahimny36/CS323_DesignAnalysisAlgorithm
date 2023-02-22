@@ -1,0 +1,23 @@
+console output including table:
+
+
+/Users/fahim/PycharmProjects/Assignment2/venv/bin/python /Users/fahim/PycharmProjects/Assignment2/main.py
+
+                   10        100        1000         10000
+native_sort      0.000715  0.010014   0.123262     1.296282
+bubble_sort      0.015020  1.048803  75.876713  8492.205143
+selection_sort   0.007153  0.533819  35.429001  3571.991205
+insertion_sort   0.005007  0.488997  31.642914  3619.909763
+cocktail_sort    0.010014  1.142740  71.384668  7551.441193
+shell_sort       0.007868  0.341892   2.782106    62.058926
+heap_sort        0.015974  0.476122   3.741026    70.970058
+quick_sort       0.011921  0.203133   1.463890    20.854950
+merge_sort       0.020981  0.449896   2.682924    40.698767
+count_sort       0.011206  0.107050   0.593185     6.450891
+radix_sort       0.010967  0.159025   1.330853    25.665045
+bucket_sort      0.013828  0.148773   3.395081   412.575960
+tim_sort         0.008106  0.360012   3.235102    55.440664
+pigeonhole_sort  0.006199  0.052929   0.315905     4.062891
+bingo_sort       0.008821  0.658035  49.092770  4971.741199
+comb_sort        0.007868  0.227213   2.433062    42.047977
+cycle_sort       0.075817  1.248121  99.729061  9859.643221
